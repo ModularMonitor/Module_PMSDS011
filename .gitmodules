@@ -4,3 +4,6 @@
 [submodule "esp_sds011"]
 	path = esp_sds011
 	url = https://github.com/ModularMonitor/lib-esp_sds011
+[submodule "Serial"]
+	path = Serial
+	url = https://github.com/ModularMonitor/lib-Serial
