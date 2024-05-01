@@ -7,3 +7,6 @@
 [submodule "Serial"]
 	path = Serial
 	url = https://github.com/ModularMonitor/lib-Serial
+[submodule "SelfThreadable"]
+	path = SelfThreadable
+	url = https://github.com/ModularMonitor/lib-SelfThreadable
